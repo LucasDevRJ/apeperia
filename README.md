@@ -18,6 +18,8 @@ O site "apeperia" se consiste em uma empresa, que cria ou faz menutenção de ap
 
 No site "apeperia" possui layout focado no mobile, que é um dos ensinamentos do curso. Tem também ícones para decorar, textos distintos que combinam, responsividade para todos os eletrônicos, vídeo interno e ícones que exemplificam o conteúdo do site.
 
+![apeperia-gif](img/apeperia.gif)
+
 ## :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`: Ser um E-commerce de vendas de aplicativos e manutenção
